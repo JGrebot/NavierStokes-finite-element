@@ -9,4 +9,4 @@ Follow instruction in the makefile, basically you need suitesparse to be install
 
 
 ## Results
-All details, including the problem solved and all the test performed, are available in the file __Rapport.pdf__.
+All details, including the problem solved and all the tests performed, are available in the file __Rapport.pdf__.
